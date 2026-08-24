@@ -1,11 +1,12 @@
 # Genesis Varela
-## Data Analyst | Automation & Cybersecurity
 
-Welcome to my professional data portfolio.
+## Data Analyst
 
-I’m a technology professional with experience in data analysis, process automation, cybersecurity, and computer science. My interest in data started during my engineering research and continued through my master’s degree, professional experience in RPA and business reporting, cybersecurity, and Data Science.
+**Python | SQL | Excel | Data Visualization**
 
-I enjoy investigating problems, finding patterns, improving data quality, and transforming complex information into insights that can support better decisions.
+Data Analyst with a background in automation, cybersecurity, and applied research. I use data to investigate problems, improve data quality, identify patterns, and transform complex information into clear insights that support business decisions.
+
+My experience in process automation and cybersecurity brings an additional perspective to data analysis, particularly around efficiency, accuracy, and data integrity.
 
 ---
 
